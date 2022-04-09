@@ -22,3 +22,4 @@ import './Header/Header';
 import './Custom/Custom';
 import './Card/Card';
 import './LearnReactAEM/LearnReactAEM';
+import './Author/Author';
